@@ -1,0 +1,9 @@
+pandas
+pandas-datareader
+numpy
+datetime3
+matplotlib
+mpl-finance
+yahoo-fin
+scikit-learn
+plotly
